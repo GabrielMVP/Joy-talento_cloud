@@ -7,7 +7,24 @@
 
 #Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.
 
-Text1 = "Você está no andar de número:"
-andares = [andar for andar in range(20, 0, -1) if andar != 13]
-for andar in andares:
-    print(Text1, andar)
+# For
+#for andar in range(20, 0, -1):
+  #  if andar != 13:
+    #    print(andar)
+
+#Andares
+
+#Text1 = "Você está no andar de número:"
+#andares = [andar for andar in range(20, 0, -1) if andar != 13]
+#for andar in andares:
+    #print(Text1, andar)
+
+
+# While
+#andar = 20
+#while andar > 0:
+  #  if andar != 13:
+    #    print(andar)
+   # andar -= 1
+
+
