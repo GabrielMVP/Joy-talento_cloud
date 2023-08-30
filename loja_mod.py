@@ -30,7 +30,7 @@ def verificar_produtos():
     for produto in lista_de_produtos:
         print(produto)
         
-# UM ESTOQUE PARA QUE NA OPÇÃÇÃO VERIFICAR A QUANTIDADE DE PRODUTOS QUE TEM NO SISTEMA.
+# UM ESTOQUE PARA QUE NA OPÇÃO VERIFICAR A QUANTIDADE DE PRODUTOS QUE TEM NO SISTEMA.
 
 estoque = {
     'Camisa Polo': 15,
